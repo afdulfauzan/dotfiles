@@ -10,7 +10,7 @@ XFCE Desktop Customization
 | :------------------- | :---------------------------- |
 | OS                   | Arch Linux                    |
 | Desktop Environtment | XFCE                          |
-| Device Host          | X-45URK                       |
+| Device Host          | X456URK                       |
 | Shell                | Zsh, Bash                     |
 | DM                   | LightDM                       |
 | Icons                | Papirus                       |
