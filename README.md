@@ -40,6 +40,13 @@ XFCE Desktop Customization
 All this will be installed with  `install_themes.sh` script
 - Lim-Blue (a [fork](https://github.com/liconaj/Lim-Blue) with xfwm support from the [darkomarko42/Lim-Blue](https://github.com/darkomarko42/Lim-Blue) theme)
 
+### Shell
+
+- oh-my-zsh powered by [robbyrussell](https://github.com/robbyrussell/oh-my-zsh)
+- Autosugestions Powered by [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+- Spaceship-zsh-theme Powered by [Spaceship-zsh-theme](https://github.com/denysdovhan/spaceship-zsh-theme)
+- zsh-syntax-highlighgting powered by [zsh-user](https://github.com/zsh-users/zsh-syntax-highlighting)
+
 ## Installation
 
 First, make sure you have all the dependencies. Then, run `setup.sh` script and pay attention to the output (you can execute it as root with `sudo` to install the icon and themes for all users, but I don't recommend this since Papirus icon theme will be patched).
