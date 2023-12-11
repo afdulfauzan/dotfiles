@@ -30,11 +30,7 @@ XFCE Desktop Customization
 
 ## Dependencies
 
-### Panel plugins
-- xfce4-whiskermenu
-- xfce4-docklike-plugin
-- power-manager-plugin
-- pulseaudio
+`yay -S xfce4-docklike-plugin menulibre ulauncher mugshot lightdm-gtk-greeter-settings noto-fonts-cjk ttf-apple-emoji ttf-roboto noto-fonts-emoji-flags zsh ncdu vizex`
 
 ### Theme
 All this will be installed with  `install_themes.sh` script
