@@ -30,7 +30,7 @@ XFCE Desktop Customization
 
 ## Dependencies
 
-`yay -S xfce4-docklike-plugin menulibre ulauncher mugshot lightdm-gtk-greeter-settings noto-fonts-cjk ttf-apple-emoji ttf-roboto noto-fonts-emoji-flags zsh ncdu vizex`
+`yay -S xfce4-docklike-plugin xdg-user-dirs menulibre ulauncher mugshot lightdm-gtk-greeter-settings noto-fonts-cjk ttf-apple-emoji ttf-roboto noto-fonts-emoji-flags zsh ncdu vizex`
 
 ### Theme
 All this will be installed with  `install_themes.sh` script
