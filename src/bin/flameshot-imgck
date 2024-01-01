@@ -3,7 +3,7 @@
 require 'date'
 
 # Please wite your dir with ~/ first
-screenshot_dir    = '~/Pictures/ScreenShots'
+screenshot_dir    = '~/Pictures'
 Dir.chdir(File.expand_path(screenshot_dir))
 original_file     = Time.now.strftime('Screenshot_%Y-%m-%d_%H-%M-%S.png')
 target_file       = original_file.split('').insert(-5, 'X').join
